@@ -111,7 +111,7 @@
 
     <PackageReference Include="EventStore.Client.Grpc.Streams" Version="22.0.0" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
-    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.3" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.29" />
 
     <PackageReference Include="Nito.AsyncEx" Version="5.1.2" />
     <PackageReference Include="AutoBogus" Version="2.13.1" />
