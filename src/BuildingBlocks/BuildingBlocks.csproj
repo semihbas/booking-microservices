@@ -77,7 +77,7 @@
     <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks" Version="6.0.1" />
     <PackageReference Include="AspNetCore.HealthChecks.MongoDb" Version="6.0.1" />
     <PackageReference Include="System.Interactive.Async" Version="5.1.0" />
-    <PackageReference Include="MassTransit" Version="8.0.0" />
+    <PackageReference Include="MassTransit" Version="8.2.1" />
     <PackageReference Include="MassTransit.RabbitMQ" Version="8.0.0" />
     <PackageReference Include="DotNetCore.CAP" Version="6.0.0" />
     <PackageReference Include="DotNetCore.CAP.Dashboard" Version="6.0.0" />
