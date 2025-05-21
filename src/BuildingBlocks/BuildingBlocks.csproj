@@ -11,7 +11,7 @@
     <PackageReference Include="AspNetCore.HealthChecks.Elasticsearch" Version="6.0.1" />
     <PackageReference Include="AspNetCore.HealthChecks.EventStore" Version="5.0.1" />
     <PackageReference Include="AspNetCore.HealthChecks.Rabbitmq" Version="6.0.1" />
-    <PackageReference Include="AspNetCore.HealthChecks.SqlServer" Version="6.0.2" />
+    <PackageReference Include="AspNetCore.HealthChecks.SqlServer" Version="8.0.2" />
     <PackageReference Include="AspNetCore.HealthChecks.UI.SQLite.Storage" Version="5.0.1" />
     <PackageReference Include="Ben.BlockingDetector" Version="0.0.4" />
     <PackageReference Include="EasyCaching.Core" Version="1.4.1" />
@@ -71,7 +71,7 @@
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.2.3" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.2.3" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
-    <PackageReference Include="AspNetCore.HealthChecks.UI" Version="6.0.2" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI" Version="7.0.0" />
     <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="6.0.2" />
     <PackageReference Include="AspNetCore.HealthChecks.UI.InMemory.Storage" Version="5.0.1" />
     <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks" Version="6.0.1" />
@@ -91,7 +91,7 @@
     <PackageReference Include="Duende.IdentityServer.EntityFramework.Storage" Version="6.0.3" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.0" />
     <PackageReference Include="Yarp.ReverseProxy" Version="1.0.0" />
-    <PackageReference Include="Microsoft.Identity.Web" Version="1.22.3" />
+    <PackageReference Include="Microsoft.Identity.Web" Version="2.5.0" />
 
     <PackageReference Include="Jaeger" Version="0.3.7" />
     <PackageReference Include="OpenTracing" Version="0.12.1" />
